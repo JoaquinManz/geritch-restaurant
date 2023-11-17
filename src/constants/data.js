@@ -12,7 +12,7 @@ const wines = [
     tags: 'AU | Bottle',
   },
   {
-    title: 'La Vieillw Rose',
+    title: 'La Vieille Rose',
     price: '$44',
     tags: 'FR | 750 ml',
   },
@@ -40,7 +40,7 @@ const cocktails = [
     tags: 'Dark rum | Ginger beer | Slice of lime',
   },
   {
-    title: 'Daiquiri',
+    title: 'Daikiri',
     price: '$10',
     tags: 'Rum | Citrus juice | Sugar',
   },
